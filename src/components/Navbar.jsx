@@ -50,7 +50,7 @@ const Navbar = () => {
                 FABTEX GALLERY
               </span>
               <span className="text-lg font-bold text-[#006BB9] sm:hidden">
-                FABTEX
+                FABTEX GALLERY
               </span>
             </Link>
 
